@@ -1,0 +1,3 @@
+task:
+-Set up Application Load Balancers (ALB) and Network Load Balancers (NLB) with appropriate listeners and target groups.
+-Configure health checks for load balancing.

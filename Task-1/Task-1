@@ -1,0 +1,4 @@
+Task:
+Design and implement infrastructure that spans multiple AWS regions.
+Configure cross-region replication for S3 and DynamoDB.
+Set up Route 53 for global DNS and failover.
